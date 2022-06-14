@@ -14,3 +14,30 @@
 
 5. Images and corresponding probability that predicted wrong
 ![model1 4](https://user-images.githubusercontent.com/55006496/173585370-a5ec46e6-e620-4056-ac0e-46354b96df27.png)
+
+
+1. Model
+![model2 1](https://user-images.githubusercontent.com/55006496/173586570-77528bf2-ad30-48ad-ac86-bb978c72639e.png)
+
+2. Training with Training loss
+![model2-2](https://user-images.githubusercontent.com/55006496/173587345-40acc2b7-bfd1-4c15-8159-47ce900f7a69.png)
+
+3. Test Accuracy
+![model2-3](https://user-images.githubusercontent.com/55006496/173587570-463033e9-84c9-4914-ad1b-ca390cd33e3c.png)
+
+4. Images and corresponding probability that predicted Right
+![model2-4](https://user-images.githubusercontent.com/55006496/173587738-75a12f5d-8e16-4ead-acc2-c9b415f17e24.png)
+
+5. Images and corresponding probability that predicted wrong
+![model2-5](https://user-images.githubusercontent.com/55006496/173587854-8403cdf2-cb5d-4777-b178-df226bc6eaf5.png)
+
+
+1. Model
+
+2. Training with Training loss
+
+3. Test Accuracy
+
+4. Images and corresponding probability that predicted Right
+
+5. Images and corresponding probability that predicted wrong
