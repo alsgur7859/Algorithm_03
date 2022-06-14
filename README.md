@@ -16,6 +16,10 @@
 ![model1 4](https://user-images.githubusercontent.com/55006496/173585370-a5ec46e6-e620-4056-ac0e-46354b96df27.png)
 
 
+
+
+
+
 1. Model
 ![model2 1](https://user-images.githubusercontent.com/55006496/173586570-77528bf2-ad30-48ad-ac86-bb978c72639e.png)
 
@@ -32,12 +36,21 @@
 ![model2-5](https://user-images.githubusercontent.com/55006496/173587854-8403cdf2-cb5d-4777-b178-df226bc6eaf5.png)
 
 
+
+
+
+
 1. Model
+![model3-1](https://user-images.githubusercontent.com/55006496/173588474-af2bc50f-cc39-4007-87ae-44f5aa7073b6.png)
 
 2. Training with Training loss
+![model3-2](https://user-images.githubusercontent.com/55006496/173589689-714859f9-2a20-40d0-8dae-9cf6e1cdcf05.png)
 
 3. Test Accuracy
+![model3-3](https://user-images.githubusercontent.com/55006496/173589857-78155d5a-d737-4f40-a4c3-c8d0c8b80c92.png)
 
 4. Images and corresponding probability that predicted Right
+![model3-4](https://user-images.githubusercontent.com/55006496/173589975-0b42f431-c859-49af-8148-165d3c796f56.png)
 
 5. Images and corresponding probability that predicted wrong
+![model3-5](https://user-images.githubusercontent.com/55006496/173590114-b334c2c5-edc8-4d6b-a3a1-6acc5ea5c982.png)
